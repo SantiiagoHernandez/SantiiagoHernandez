@@ -1,6 +1,6 @@
 ### I'm Santiago a front end developer 👋
 
-🔍 I’m always working on learning new technologies<br>👨‍💻 I’m looking to collaborate on front end projects<br>📈 I am currently learning more about frameworks and improve my skills<br>💬 Ask me about myself<br>⚡ I am always willing to learn something new<br> 💪 I love challenges
+🔍 I’m always working on learning new technologies<br>👨‍💻 I’m looking to collaborate on front end projects<br>📈 I am currently learning more about frameworks and improve my skills<br>💬 Ask me about myself<br>⚡ I am always willing to learn something new<br> 💪 I love challenges<br> 🗣️ I consider myself an excellent team player
 
 
 # 💻 Tech Stack:
