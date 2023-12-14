@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="250" /> <br>
   <h1 align="center">Hi👋, I'm Santiago a Front End developer</h1>
-  <h3 align="center">A young man passionate about web development in Colombia, constantly learning. With knowledge in ReactJS, HTML, CSS, Javascript, Python.</h3>
+  <h3 align="center">A young man passionate about web development from Colombia, constantly learning. With knowledge in ReactJS, HTML, CSS, Javascript, Python.</h3>
 </div>
 
 ---
